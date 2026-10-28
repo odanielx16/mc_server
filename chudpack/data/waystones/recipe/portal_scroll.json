@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GEG",
+    "GDG",
+    "PPP"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "E": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "D": {
+      "item": "waystones:warp_stone"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "id": "waystones:portal_scroll",
+    "count": 3
+  },
+  "category": "misc"
+}

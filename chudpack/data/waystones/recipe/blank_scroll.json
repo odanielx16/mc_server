@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GEG",
+    "ADA",
+    "PPP"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:echo_shard"
+    },
+    "E": {
+      "item": "minecraft:gold_block"
+    },
+    "A": {
+      "item": "minecraft:feather"
+    },
+    "D": {
+      "item": "minecraft:ender_eye"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "id": "waystones:blank_scroll",
+    "count": 3
+  },
+  "category": "misc"
+}

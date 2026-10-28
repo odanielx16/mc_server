@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "DED",
+    "ENE",
+    "DED"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "E": {
+      "item": "minecraft:echo_shard"
+    },
+    "N": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "result": {
+    "id": "waystones:warp_stone",
+    "count": 1
+  }
+}
