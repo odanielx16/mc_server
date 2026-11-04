@@ -7,16 +7,16 @@
   ],
   "key": {
     "G": {
-      "item": "minecraft:echo_shard"
+      "item": "minecraft:amethyst_shard"
     },
     "E": {
-      "item": "minecraft:gold_block"
+      "item": "minecraft:diamond"
     },
     "A": {
       "item": "minecraft:feather"
     },
     "D": {
-      "item": "minecraft:ender_eye"
+      "item": "minecraft:sculk_catalyst"
     },
     "P": {
       "item": "minecraft:paper"
@@ -24,7 +24,7 @@
   },
   "result": {
     "id": "waystones:blank_scroll",
-    "count": 3
+    "count": 1
   },
   "category": "misc"
 }

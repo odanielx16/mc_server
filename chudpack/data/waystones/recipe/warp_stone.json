@@ -2,9 +2,9 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "pattern": [
-    "DED",
+    "DBD",
     "ENE",
-    "DED"
+    "DBD"
   ],
   "key": {
     "D": {
@@ -15,10 +15,13 @@
     },
     "N": {
       "item": "minecraft:ender_eye"
+    },
+    "B": {
+      "item": "minecraft:breeze_rod" 
     }
   },
   "result": {
     "id": "waystones:warp_stone",
-    "count": 1
+    "count": 2
   }
 }

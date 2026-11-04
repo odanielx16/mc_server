@@ -2,18 +2,21 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "GEG",
-    "GDG",
+    "ADA",
     "PPP"
   ],
   "key": {
-    "G": {
-      "item": "minecraft:gold_ingot"
+    "D": {
+      "item": "minecraft:sculk_catalyst"
     },
-    "E": {
+    "G": {
+      "item": "minecraft:diamond"
+    },
+    "A": {
       "item": "minecraft:amethyst_shard"
     },
-    "D": {
-      "item": "waystones:warp_stone"
+    "E": {
+      "item": "betterend:aeternium_ingot"
     },
     "P": {
       "item": "minecraft:paper"
@@ -21,7 +24,7 @@
   },
   "result": {
     "id": "waystones:portal_scroll",
-    "count": 3
+    "count": 4
   },
   "category": "misc"
 }

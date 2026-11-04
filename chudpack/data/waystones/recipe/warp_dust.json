@@ -2,18 +2,21 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "GEG",
-    "EDE",
+    "FDF",
     "GEG"
   ],
   "key": {
     "G": {
-      "item": "minecraft:gold_ingot"
+      "item": "minecraft:breeze_rod"
     },
     "E": {
       "item": "minecraft:amethyst_shard"
     },
     "D": {
       "item": "minecraft:glowstone_dust"
+    },
+    "F": {
+      "item": "minecraft:echo_shard"
     }
   },
   "result": {
