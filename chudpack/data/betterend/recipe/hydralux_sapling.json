@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A"
+  ],
+  "key": {
+    "A": {
+      "item": "betterend:hydralux_petal"
+    }
+  },
+  "result": {
+    "id": "betterend:hydralux_sapling",
+    "count": 2
+  },
+  "category": "misc"
+}
